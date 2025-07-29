@@ -1,3 +1,7 @@
+data
+models
+reports
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -77,6 +81,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+anaconda_projects/
 
 # IPython
 profile_default/
